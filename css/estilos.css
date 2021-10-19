@@ -1,0 +1,57 @@
+body {
+	background: #A49E9E;
+}
+.todo { /* no se usa*/
+
+	height: 200px; 
+	background: #ff8000; 
+	margin: 60px 90px;
+	padding: 30px; 
+}
+.iconos {/* no se usa*/
+	font-size: 20px;
+	text-decoration: none;
+	margin: 100px 60px;
+	display:inline-block; 
+	background: #91D7E5;
+	color: #fff;
+	padding: 10px 40px;
+	box-shadow: 0px 5px 0px #98CCD6;
+
+}/* no se usa*/
+.iconos:hover {
+	box-shadow: 0px 2px 0px #98CCD6;
+}
+.iconos:active {
+	box-shadow: none;
+}
+
+.grafico{
+
+	margin: 0px 0px;
+}
+.GraficoLineal{
+	
+	margin: 80px 90px;
+	padding: 30px; 
+}
+/*.fdatos{
+	background: #ff8000;
+	margin: 80px 90px;/margenes exterior/
+	/*padding: 30px; 
+}*/
+.jumbotron2{
+	background: #ff8000;}
+
+#btngraficar{
+	width: 400px;
+}
+.item{
+	padding: 10px; 
+	border: 1px solid #000;
+	float: left;
+	margin: 10px 10px;
+}
+#carousel-lpz div div img{
+	width: 100%;
+}
